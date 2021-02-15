@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-links {
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+  > a {
+    width: 20%;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+
+  > a:first-child {
+    margin-left: 30px;
+  }
+}
+
+body {
+  font-family: 'Quicksand';
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
