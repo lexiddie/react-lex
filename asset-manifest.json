@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-lex/static/css/main.461935ff.chunk.css",
+    "main.js": "/react-lex/static/js/main.ee05ee36.chunk.js",
+    "runtime-main.js": "/react-lex/static/js/runtime-main.a7d4d2aa.js",
+    "static/css/2.100b230f.chunk.css": "/react-lex/static/css/2.100b230f.chunk.css",
+    "static/js/2.44b0ade0.chunk.js": "/react-lex/static/js/2.44b0ade0.chunk.js",
+    "static/js/3.f1b440c0.chunk.js": "/react-lex/static/js/3.f1b440c0.chunk.js",
+    "index.html": "/react-lex/index.html",
+    "static/js/2.44b0ade0.chunk.js.LICENSE.txt": "/react-lex/static/js/2.44b0ade0.chunk.js.LICENSE.txt",
+    "static/media/flower.11baeac8.jpg": "/react-lex/static/media/flower.11baeac8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7d4d2aa.js",
+    "static/css/2.100b230f.chunk.css",
+    "static/js/2.44b0ade0.chunk.js",
+    "static/css/main.461935ff.chunk.css",
+    "static/js/main.ee05ee36.chunk.js"
+  ]
+}
